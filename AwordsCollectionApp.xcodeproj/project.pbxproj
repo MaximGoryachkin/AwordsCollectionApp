@@ -19,7 +19,6 @@
 		A808B14C254EAB200043E285 /* AwordsCollectionApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A808B14B254EAB200043E285 /* AwordsCollectionApp.swift */; };
 		B5E44DCF26FF953F0088346E /* TargetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E44DCE26FF953F0088346E /* TargetView.swift */; };
 		B5E44DD22700EC1C0088346E /* ArrowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E44DD12700EC1C0088346E /* ArrowView.swift */; };
-		B5E44DD52700F4140088346E /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E44DD42700F4140088346E /* SwiftUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,7 +36,6 @@
 		A808B14B254EAB200043E285 /* AwordsCollectionApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AwordsCollectionApp.swift; sourceTree = "<group>"; };
 		B5E44DCE26FF953F0088346E /* TargetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TargetView.swift; sourceTree = "<group>"; };
 		B5E44DD12700EC1C0088346E /* ArrowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrowView.swift; sourceTree = "<group>"; };
-		B5E44DD42700F4140088346E /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,7 +70,6 @@
 			children = (
 				A808B14B254EAB200043E285 /* AwordsCollectionApp.swift */,
 				A80551E424DB161E00575B7A /* TabViews.swift */,
-				B5E44DD42700F4140088346E /* SwiftUIView.swift */,
 				A80551D224DB159D00575B7A /* MainView.swift */,
 				A80551E224DB15FB00575B7A /* AwardsView.swift */,
 				A80551E624DB170A00575B7A /* GradientRectangles.swift */,
@@ -171,7 +168,6 @@
 				A80551E924DB173900575B7A /* PathView.swift in Sources */,
 				A808B14C254EAB200043E285 /* AwordsCollectionApp.swift in Sources */,
 				A80551E324DB15FB00575B7A /* AwardsView.swift in Sources */,
-				B5E44DD52700F4140088346E /* SwiftUIView.swift in Sources */,
 				A80551D324DB159D00575B7A /* MainView.swift in Sources */,
 				B5E44DD22700EC1C0088346E /* ArrowView.swift in Sources */,
 				B5E44DCF26FF953F0088346E /* TargetView.swift in Sources */,
